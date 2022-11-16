@@ -1,0 +1,34 @@
+#about{
+    background-color: rgb(62, 151, 133) !important;
+ height: 100vh;
+}
+.header{
+    color: white ;
+    font-size: 60px;
+}
+.left{
+    background-color: white ;
+    width: 120px;
+    height: 4px;
+    margin-right: 1rem;
+    border-radius: 1rem;
+}
+
+.right{
+    background-color: white ;
+    width: 120px;
+    height: 4px;
+    margin-left: 1rem;
+    border-radius: 1rem;
+}
+.idgg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 40px;
+    }
+    .lead{
+        font-size: 20px !important;
+        color: white !important;
+        font-weight: 500;
+    }

@@ -1,0 +1,34 @@
+
+    .parent{
+    background-color: rgb(55, 72, 90) !important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    text-transform: uppercase;
+    
+  }  
+  .start{
+    color: rgb(220, 218, 215) !important;
+    font-size: 28px !important;
+  }
+  .btton{
+    background-color: rgb(62, 151, 133) !important;
+  }
+  .btticon{
+    background-color: transparent;
+     padding: 13px;
+    border-radius: 0.5rem !important;
+    border: 0.125rem solid transparent;
+    font-size: 20px;
+    }
+    .navlink{
+      color: rgb(220, 218, 215);
+    text-decoration: none;
+    font-size: 20px;
+    padding: 16px;
+    transition: all .5s;
+    }
+    .navlink:hover{
+      color:rgb(62, 151, 133)  !important;
+    }

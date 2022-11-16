@@ -1,0 +1,44 @@
+.head{
+    color: rgb(55, 72, 90) !important;
+font-size: 70px !important;
+}
+.left{
+    background-color: rgb(55, 72, 90) !important;
+    width: 120px;
+    height: 4px;
+    margin-right: 1rem;
+    border-radius: 1rem;
+}
+.star{
+    color: rgb(55, 72, 90) !important;
+}
+.idgg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+.right{
+    background-color: rgb(55, 72, 90) !important;
+    width: 120px;
+    height: 4px;
+    margin-left: 1rem;
+    border-radius: 1rem;
+}
+.group{
+    border-bottom: 1px solid #e9ecef 
+}
+.btn{
+    color: #fff;
+    background-color: rgb(62, 151, 133);
+    padding: 16px 28px;
+    font-size: 20px;
+    margin: auto !important;
+    border-radius: 8px;
+    border: none;
+    transition: all .5s;
+ 
+}
+.btn:hover{
+background-color: red;
+}
+

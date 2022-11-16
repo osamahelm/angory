@@ -1,0 +1,91 @@
+#footer{
+    background-color: rgb(55, 72, 90);
+  text-align: center;
+    color: #fff
+
+}
+.headers{
+    font-size: 24px;
+}
+.lead{
+    font-size:20px ;
+    font-weight: 300px;
+}
+.copyright {
+    background-color: rgb(50, 54, 56);
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cefa{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center !important;
+    color: #fff;
+    border: 2px solid #fff;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .5s;
+
+}
+.twit{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    border: 2px solid #fff;
+    margin:0 10px;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .5s;
+
+}
+.linke {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    border: 2px solid #fff;
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all .5s;
+
+}
+.drib{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    border: 2px solid #fff;
+    margin:0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    transition: all .5s;
+    
+}
+.linke:hover{
+    background-color:#fff;
+    color: rgb(55, 72, 90);
+}
+.drib:hover{
+    background-color:#fff;
+    color: rgb(55, 72, 90);
+}
+.cefa:hover{
+    background-color:#fff;
+    color: rgb(55, 72, 90);
+}
+.twit:hover{
+    background-color:#fff;
+    color: rgb(55, 72, 90);
+}
